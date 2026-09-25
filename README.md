@@ -109,4 +109,82 @@ On the whole minimum rain water harvested and recharged due to 3 recharge ponds 
 water harvested is equivalent to 82 days fresh water requirement of the plant that reduces the cost on water
 and saves the precious water resource. 
 ________________
+Issuance Date: 25/09/2026
+
+qty: 4971409
+
+mp-01: 20014-2025
+_____________
+Serial Number: 0001-000001-321558-UWR-RoU-IN-585-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 321558
+_________
+Serial Number: 0001-321559-810465-UWR-RoU-IN-585-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 488907
+____________
+Serial Number: 0001-810466-1348306-UWR-RoU-IN-585-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 537841
+____________
+Serial Number: 0001-1348307-1570119-UWR-RoU-IN-585-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 221813
+____________
+Serial Number: 0001-1570120-1847193-UWR-RoU-IN-585-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 277074
+____________
+Serial Number: 0001-1847194-2286129-UWR-RoU-IN-585-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 438936
+____________
+Serial Number: 0001-2286130-2571760-UWR-RoU-IN-585-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 285631
+____________
+Serial Number: 0001-2571761-2884596-UWR-RoU-IN-585-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 312836
+___________
+Serial Number: 0001-2884597-3388269-UWR-RoU-IN-585-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 503673
+_______________
+Serial Number: 0001-3388270-3974154-UWR-RoU-IN-585-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 585885
+____________
+Serial Number: 0001-3974155-4497251-UWR-RoU-IN-585-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 523097
+__________
+Serial Number: 0001-4497252-4971408-UWR-RoU-IN-585-01012025-31122025
+
+Vintage Year: 2025
+
+Quantity: 474157
+___________
 
